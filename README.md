@@ -40,3 +40,12 @@ Screen Recording Link :- https://drive.google.com/file/d/1KpaOiwNAv_r-yvX86MH4X4
 - **NewsAPI.org:** This app fetches news data from the NewsAPI.org website. NewsAPI.org provides a reliable source of news articles from various publishers worldwide.
   
 Zip File Download Link :-https://drive.google.com/file/d/1RL9bn6WHDoG_z6qTWsynFLEgZYlnCYXl/view?usp=sharing 
+
+## Installation
+
+To run this Flutter app on your local machine, follow these steps:
+
+1. Clone the repository to your computer: 
+2. Navigate to the project directory: `cd flutter-news-app`
+3. Install the required packages using Flutter: `flutter pub get`
+4. Run the app: `flutter run`
