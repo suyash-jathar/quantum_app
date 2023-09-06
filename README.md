@@ -3,6 +3,8 @@
 
 This is a Flutter application for fetching and displaying news articles from various sources. The app provides user authentication using Firebase and allows users to explore the latest news.
 
+# Screen Recording Link :- https://drive.google.com/file/d/1KpaOiwNAv_r-yvX86MH4X4VZ0bg580VY/view?usp=sharing 
+
 ## Libraries/Frameworks Used
 
 - **Flutter:** Flutter is an open-source UI software development toolkit created by Google. It is used to build natively compiled applications for mobile, web, and desktop from a single codebase.
